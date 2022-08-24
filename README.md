@@ -1,3 +1,4 @@
+<p align="center"><img src="https://user-images.githubusercontent.com/37799440/186523967-20e292b2-7656-4ce2-872d-18b85600caad.jpeg" width=200 height=200></p>
 
 
 Hi, I’m Benjamin aka 7Games. I’m interested in Software Development, Games Development, and Tesco for some reason. I’m in college learning Software Development and I work on games and programs in my spare time.<br>
