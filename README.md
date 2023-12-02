@@ -1,14 +1,11 @@
-Hi 👋
+# Give Up GitHub
 
-I’m Benjamin. I’m interested in Software Development and UNIX operating systems. I’m in currently in college, learning Software Development and I like to work on programs and scripts in my spare time.
+I have given up GitHub.  ([See Software Freedom Conservancy's *Give Up  GitHub* site for details](https://GiveUpGitHub.org).)
 
-I've moved to [Codeberg](https://codeberg.org/benjaminblack). I will still upload my code here however my main git platform is now Codeberg.
+You can now find me at [Codeberg](https://codeberg.org/benjaminblack) instead.
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![lisp](https://img.shields.io/badge/lisp-000000.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjM1IiBmaWxsPSIjZmZmIi8+CiAgPHBhdGggc3Ryb2tlPSIjMDAwIiBzdHJva2Utd2lkdGg9IjUiIGQ9Im0yNTUuNTYgMjAuMDA4Yy02Mi4zNzQgMC4xMTY5LTEyMi4xNyAyNC45MjItMTY2LjMgNjguOTkyLTkyLjIzNiA5Mi4wOTEtOTIuMzUzIDI0MS41Mi0wLjI2MTcgMzMzLjc1IDkyLjA5IDkyLjIzNiAyNDEuNTIgOTIuMzUzIDMzMy43NSAwLjI2MiA5Mi4yMzYtOTIuMDkxIDkyLjM1My0yNDEuNTIgMC4yNjItMzMzLjc1LTQ0LjM3Ny00NC40NDctMTA0LjY0LTY5LjM3MS0xNjcuNDUtNjkuMjU0em0yLjI4MSAxLjAwNTljNTkuOTM0IDAuNDg0NiAxMTkuMzkgMjMuODA5IDE2NC40NiA2OC45NTMgOTEuNzAxIDkxLjg0NSA5MS41ODUgMjQwLjY0LTAuMjU5IDMzMi4zNC00NS45MjIgNDUuODUxLTEyMC4zMiA0NS43OTMtMTY2LjE3LTAuMTI5LTQ1Ljg1MS00NS45MjItNDUuNzkzLTEyMC4zMiAwLjEyOS0xNjYuMTcgNDYuNDEyLTQ2LjMzOSA0Ni40NzEtMTIxLjUzIDAuMTMtMTY3Ljk0LTM3LjA4NC0zNy4xNDEtOTQuNDU3LTQ2LjU1My0xNDAuNjYtMjEuNjU4IDQyLjQxNi0zMS41NDEgOTIuNzExLTQ1Ljc5OCAxNDIuMzctNDUuMzk2em0tMTkwLjg0IDEzMC4yNmg0MGM5Ljk0MyA0Mi4xNDcgMjUuMjA0IDc5LjQxOCA0MC43NSAxMTYuNDMgMTUuOS00MS4zMjYgMzMuMjAzLTgxLjI0OSA1NS4yNS0xMTYuNDNoNDBjLTQ4LjkyOCA5Ny4zNjQtMTAyLjE5IDE2NC4wNi0yNCAyNTBoLTQwYy00Ny41NjctNzcuMjQzLTgyLjQzOS0xNDcuNjctMTEyLTI1MHoiLz4KICA8cGF0aCBkPSJtMjkzIDExMC43MmM3OC4xOTQgODUuOTM2IDI0LjkyOCAxNTIuNjQtMjQgMjUwaDQwYzIyLjA0Ny0zNS4xNzkgMzkuMzUtNzUuMTAyIDU1LjI1LTExNi40MyAxNS41NDYgMzcuMDEgMzAuODA3IDc0LjI4MiA0MC43NSAxMTYuNDNoNDBjLTI5LjU2MS0xMDIuMzMtNjQuNDMzLTE3Mi43Ni0xMTItMjUweiIvPgo8L3N2Zz4=)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)<br>
+Any use of my project's code by GitHub Copilot, past or present, is done without my permission. I do not consent to GitHub's use of any of my project's code in Copilot.
 
-![GNU Emacs](https://img.shields.io/badge/emacs-54487A.svg?style=for-the-badge&logo=gnuemacs&logoColor=white)<br>
+Join us; you can [give up GitHub](https://GiveUpGitHub.org) too!
 
-![Arch](https://img.shields.io/badge/Arch-blue?style=for-the-badge&logo=archlinux&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Logo of the GiveUpGitHub campaign](https://sfconservancy.org/img/GiveUpGitHub.png)
