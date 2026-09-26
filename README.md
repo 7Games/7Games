@@ -15,7 +15,7 @@
 
 <p>
     [
-    <a href="https://yuna0x0.com">Website</a>
+    <a href="https://svngms.neocities.org/">Website</a>
     |
     <a href="https://codeberg.org/svngms/">Codeberg</a>
     |
