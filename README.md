@@ -1,4 +1,4 @@
-<img src="https://svngms.neocities.org/temp.png" width="600px" height="400px" alt="Image" align="right" />
+<img src="https://svngms.neocities.org/temp.png" width="500px" height="300px" alt="Image" align="right" />
 <h3>Hey I'm svn, or svngms, or 7Games, or Benjamin I suppose.</h3>
 <p>Programmer - Game Dev (sorta) - Linux Enjoyer - Professional Emacs User</p>
 
